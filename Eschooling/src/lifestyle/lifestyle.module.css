@@ -1,0 +1,50 @@
+.lifestyle{
+    width: 100%;
+    height: 950px;
+    background-color: rgb(240, 237, 237);
+}
+.campus{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+   padding-top: 50px;
+    color:#00306e;
+}
+.one{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.pencil{
+padding-left: 80px;
+padding-top: 50px;
+}
+.do{
+    color:#00306e;
+padding-left: 80px;
+padding-top: 10px;
+font-family: sans-serif;
+}
+.why{
+    padding-left: 80px;
+    padding-top: 10px;
+    width: 420px;
+    font-family: sans-serif;
+    color: grey;
+}
+.arrows{
+    border: 2px solid rgb(240, 237, 237);
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: -100px;
+}
+.two{
+    width: 450px;
+    height: 600px;
+    position: relative;
+    left: 700px;
+    top: -600px;
+}

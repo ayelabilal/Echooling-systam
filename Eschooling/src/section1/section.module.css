@@ -1,0 +1,60 @@
+.section{
+    width: 95%;
+    height: 650px;
+    margin-left: 30px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.image{
+    width: 500px;
+}
+.h1{
+    position: relative;
+    left: 650px;
+    top: -450px;
+    width: 300px;
+    color:rgb(213, 38, 67);
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.span{
+    color: navy;
+}
+.p{
+    position: relative;
+    left: 650px;
+    top: -430px;
+    width: 430px;
+    font-family: sans-serif;
+    color: grey;
+}
+.u{
+    color:rgb(213, 38, 67);
+}
+.hr{
+    position: relative;
+    left: 650px;
+    top: -400px;
+}
+.p2{
+    position: relative;
+    left: 650px;
+    top: -350px;
+    color: grey;
+    width: 430px;
+}
+.btn{
+    position: relative;
+    left: 650px;
+    top: -330px;
+    padding: 15px;
+    font-size: 16px;
+    color: navy;
+    background-color: white;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: rgb(247, 42, 76);
+    color: white;
+}

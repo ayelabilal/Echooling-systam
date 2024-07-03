@@ -1,0 +1,41 @@
+.Eschooling{
+    background-color:white;
+    min-height: 80px;
+    padding: 20px;
+}
+
+.option{
+    margin-top: -30px;
+    padding-left: 250px;
+    gap: 20px;
+}
+.home{
+    padding-left: 15px;
+    color:navy;
+    border-style: none;
+}
+.home:hover{
+    color: rgb(237, 69, 97);
+}
+.contact{
+    color:navy;
+    padding-left: 530px;
+    margin-top: -15px;
+}
+.contact:hover{
+    color: rgb(237, 69, 97);
+}
+.input{
+    position: absolute;
+    top: 80px;
+    margin-left: 650px;
+    padding: 10px;
+    background-color: rgb(194, 194, 194);
+    border-style: none;
+
+}
+.search{
+    position: absolute;
+    top: 88px;
+    margin-left: 800px;
+}

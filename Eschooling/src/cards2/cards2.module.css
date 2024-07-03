@@ -1,0 +1,48 @@
+.card{
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px black;
+    margin: 25px;
+    padding: 20px;
+    max-width: 250px;
+    height: 350px;
+    /* text-align: center; */
+    display: inline-block;
+    overflow: hidden;
+}
+
+.cardImg{
+    max-width: 90%;
+    /* width: 100%; */
+}
+.p1{
+color: navy;
+padding-top: 10px;
+}
+.p2{
+    padding-top: 20px;
+    color: navy;
+    font-size: 18px;
+
+}
+.p3{
+color: grey;
+padding-top: 30px;
+
+}
+.p4{
+    padding-top: 2px;
+    position: relative;
+left: 150px;
+top: -20px;
+color: rgb(221, 50, 79);
+
+
+}
+.lesson{
+    color: rgb(221, 50, 79);
+padding-top: 2px;
+position: relative;
+left: 150px;
+top: -20px;
+overflow: hidden;
+}

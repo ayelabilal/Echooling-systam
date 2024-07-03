@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: blue;
+    color: white;  
+    padding: 10px; 
+}
+.img{
+    margin-left: 20px;
+}
+/* .ph{
+    padding-top:5px;
+}
+.p{
+    padding-top: 5px;
+} */

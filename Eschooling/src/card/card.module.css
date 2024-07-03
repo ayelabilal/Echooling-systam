@@ -1,0 +1,13 @@
+.card{
+    display: inline-block;
+    columns: 4;
+    gap: 30px;
+    width:90%;
+    margin: 50px;
+    text-align: center;
+    color: navy;
+}
+
+.img{
+    height: 300px;
+}
